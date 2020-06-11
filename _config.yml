@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Vishal Kumar"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/bio-images.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Postgrad student at Trinity College Dublin."
   location         : "Dublin, Ireland"
   email            :
